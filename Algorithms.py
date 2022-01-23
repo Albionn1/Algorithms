@@ -100,7 +100,7 @@ def bubblesort(lista):
 
 zgjedhja = int(input("""
 
-    Zgjedhni Algoritmin per sortimin e listes: {}
+    Zgjedhni Algoritmin per sortimin e listes
 
     1.Quicksort
 
@@ -109,6 +109,7 @@ zgjedhja = int(input("""
     3.Bubblesort
 
 """))
+
 if zgjedhja == 1:
     print("Array i sortuar:")
     print(quicksort(lista))
