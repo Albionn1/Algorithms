@@ -236,4 +236,4 @@ elif zgjedhja == 3:
     print ("---------------------------------------------------------------------------------------------\n\nArray i sortuar:")
     for i in range(len(lista)):
         print(lista[i], end=" ")
-input("\nShtypni Enter qe ta terminoni programin")
+input("\n\nShtypni Enter qe ta terminoni programin")
