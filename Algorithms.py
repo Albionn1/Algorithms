@@ -1,5 +1,4 @@
 import code
-from side_by_side import print_side_by_side
 #marrja e listes nga Perdoruesi
 lista = []
 n = int(input("Gjatesia e vargut: "))
